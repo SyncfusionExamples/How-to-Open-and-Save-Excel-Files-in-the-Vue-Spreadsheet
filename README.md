@@ -1,14 +1,14 @@
 # How to Open and Save Excel Files in the Vue Spreadsheet
 
-A quick-start project that shows you how to open and save Excel files using the Vue spreadsheet component. This project contains simple code to load an Excel file when the application loads, configure a server, and send custom parameters.
+A quick-start project that shows you how to open and save Excel files using the [Vue spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/vue-spreadsheet-editor) component. This project contains simple code to load an Excel file when the application loads, configure a server, and send custom parameters.
 
-The open and save documentation for the Syncfusion Vue Spreadsheet component: 
+The open and save documentation for the Vue Spreadsheet component: 
 https://ej2.syncfusion.com/vue/documentation/spreadsheet/open-save
 
-Check out this online example of open and save excel file in the Syncfusion Vue Spreadsheet component:
+Check out this online example of open and save excel file in the Vue Spreadsheet component:
 https://ej2.syncfusion.com/vue/demos/#/material/spreadsheet/default.html 
 
-The getting started documentation for the Syncfusion Vue Spreadsheet component: 
+The getting started documentation for the Vue Spreadsheet component: 
 https://ej2.syncfusion.com/vue/documentation/spreadsheet/vue-3-getting-started
 
 The Vue Spreadsheet Getting Started video:
